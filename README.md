@@ -12,7 +12,7 @@
 - tailwindcss
 
 
-!()
+
 <img src="https://i.imgur.com/gdoT40D.png" alt="Alt text" title="Optional title">
 
 <h2>TODO list:</h2>
