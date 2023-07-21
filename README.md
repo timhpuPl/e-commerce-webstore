@@ -12,7 +12,7 @@
 - tailwindcss
 
 
-![StoreMain](https://imgur.com/a/jRvdl7S)
+![StoreMain]([https://imgur.com/a/jRvdl7S](https://i.imgur.com/gdoT40D.png))
 
 <h2>TODO list:</h2>
 - Fresh interface
