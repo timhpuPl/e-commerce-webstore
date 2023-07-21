@@ -11,8 +11,8 @@
 - use-shopping-cart
 - tailwindcss
 
-<img src="https://imgur.com/a/jRvdl7S" alt="StoreMain"/>
 
+![StoreMain](https://imgur.com/a/jRvdl7S)
 
 <h2>TODO list:</h2>
 - Fresh interface
